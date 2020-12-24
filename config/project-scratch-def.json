@@ -1,18 +1,28 @@
 {
-  "orgName": "Demo company",
+  "orgName": "E-Shop",
   "edition": "Developer",
-  "features": [],
+  "hasSampleData": false,
+  "features": ["Communities", "Walkthroughs"],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
+      "communitiesSettings": {
+          "enableNetworksEnabled": true
+      },
+      "experienceBundleSettings": {
+          "enableExperienceBundleMetadata": true
+      },
+      "lightningExperienceSettings": {
+          "enableS1DesktopEnabled": true
+      },
+      "securitySettings": {
+          "passwordPolicies": {
+              "enableSetPasswordInApi": true
+          }
+      },
+      "mobileSettings": {
+          "enableS1EncryptedStoragePref2": false
+      },
+      "userEngagementSettings": {
+          "enableOrchestrationInSandbox": true
       }
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
   }
 }
