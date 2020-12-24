@@ -8,6 +8,24 @@
         <type>Flexipage</type>
         <pageOrSobjectType>standard-home</pageOrSobjectType>
     </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Shop_Account</content>
+        <formFactor>Small</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Shop_Account</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+    </actionOverrides>
     <brand>
         <headerColor>#715EBA</headerColor>
         <logo>icons8shop64</logo>
@@ -21,7 +39,12 @@
     <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
     <label>E-Shop</label>
     <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
+    <tabs>E_Shop</tabs>
     <tabs>standard-Account</tabs>
+    <tabs>standard-Feed</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>E_Shop_UtilityBar</utilityBar>
 </CustomApplication>
