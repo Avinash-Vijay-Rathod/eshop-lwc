@@ -1,0 +1,12 @@
+[
+    {
+        "sobject": "Shop_Product_Family__c",
+        "saveRefs": true,
+        "files":["Shop_Product_Family__cs.json"]
+    },
+    {
+        "sobject": "Shop_Product__c",
+        "resolveRefs": true,
+        "files":["Shop_Product__cs.json"]
+    }
+]

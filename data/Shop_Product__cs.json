@@ -1,0 +1,18 @@
+{
+    "records" : [
+        {
+            "attributes" : {
+                "type" : "Shop_Product__c",
+                "referenceId" : "samsunga30Ref"
+            },
+            "Name" : "Samsung A30",
+            "Description__c" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "Expiary_Date__c" : "2021-04-11",
+            "Mnufacturing_Date__c" : "2021-04-11",
+            "Price__c" : 2000,
+            "Product_Family__c" : "@mobilentabRef",
+            "Product_Image__c" : "http://7-themes.com/data_images/collection/2/4440042-hd-wallpapers.jpg",
+            "Quantity__c" : 5
+        }
+    ]
+}

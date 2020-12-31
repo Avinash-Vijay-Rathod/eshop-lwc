@@ -1,0 +1,175 @@
+{
+    "records": [
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "entertainmentRef"
+            },
+            "Name" : "Entertainment",
+            "Shop_Product_Category__c" : "Electronics",
+            "Shop_Product_Family_Description__c" : "This product family includes etertainment products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "mobilentabRef"
+            },
+            "Name" : "Mobile & Tab",
+            "Shop_Product_Category__c" : "Electronics",
+            "Shop_Product_Family_Description__c" : "This product family includes mobiles and tabs products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "homeappliancesRef"
+            },
+            "Name" : "Home Appliances",
+            "Shop_Product_Category__c" : "Electronics",
+            "Shop_Product_Family_Description__c" : "This product family includes home appliances products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "healthcareRef"
+            },
+            "Name" : "Health Care",
+            "Shop_Product_Category__c" : "Electronics",
+            "Shop_Product_Family_Description__c" : "This product family includes health care products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "wallcolorRef"
+            },
+            "Name" : "Wall Color",
+            "Shop_Product_Category__c" : "Hardware",
+            "Shop_Product_Family_Description__c" : "This product family includes wall color products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "booksRef"
+            },
+            "Name" : "Books",
+            "Shop_Product_Category__c" : "Stationaries",
+            "Shop_Product_Family_Description__c" : "This product family includes books products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "notepadRef"
+            },
+            "Name" : "Notepad",
+            "Shop_Product_Category__c" : "Stationaries",
+            "Shop_Product_Family_Description__c" : "This product family includes notepad products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "roomfreshnerRef"
+            },
+            "Name" : "Room Freshner",
+            "Shop_Product_Category__c" : "Stationaries",
+            "Shop_Product_Family_Description__c" : "This product family includes room freshner products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "inkrifillRef"
+            },
+            "Name" : "Ink Refill",
+            "Shop_Product_Category__c" : "Stationaries",
+            "Shop_Product_Family_Description__c" : "This product family includes ink rifill products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "poderRef"
+            },
+            "Name" : "Poder",
+            "Shop_Product_Category__c" : "Cosmetics",
+            "Shop_Product_Family_Description__c" : "This product family includes poder products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "creamRef"
+            },
+            "Name" : "Cream",
+            "Shop_Product_Category__c" : "Cosmetics",
+            "Shop_Product_Family_Description__c" : "This product family includes cream products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "goldRef"
+            },
+            "Name" : "Gold",
+            "Shop_Product_Category__c" : "Jwlleries",
+            "Shop_Product_Family_Description__c" : "This product family includes gold products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "silverRef"
+            },
+            "Name" : "Silver",
+            "Shop_Product_Category__c" : "Jwlleries",
+            "Shop_Product_Family_Description__c" : "This product family includes silver products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "platinumRef"
+            },
+            "Name" : "Platinum",
+            "Shop_Product_Category__c" : "Jwlleries",
+            "Shop_Product_Family_Description__c" : "This product family includes platinum products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "jeansRef"
+            },
+            "Name" : "Jeans",
+            "Shop_Product_Category__c" : "Cloths",
+            "Shop_Product_Family_Description__c" : "This product family includes jeans products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "tshirtRef"
+            },
+            "Name" : "T-Shirt",
+            "Shop_Product_Category__c" : "Cloths",
+            "Shop_Product_Family_Description__c" : "This product family includes T-Shirts products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "fruitsRef"
+            },
+            "Name" : "Fruits",
+            "Shop_Product_Category__c" : "Food",
+            "Shop_Product_Family_Description__c" : "This product family includes fruits products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "vigitablesRef"
+            },
+            "Name" : "Vigitables",
+            "Shop_Product_Category__c" : "Food",
+            "Shop_Product_Family_Description__c" : "This product family includes vigitables products."
+        },
+        {
+            "attributes" : {
+                "type" : "Shop_Product_Family__c",
+                "referenceId" : "dryfruitsRef"
+            },
+            "Name" : "Dry Fruits",
+            "Shop_Product_Category__c" : "Food",
+            "Shop_Product_Family_Description__c" : "This product family includes dry fruits products."
+        }
+    ]
+}
